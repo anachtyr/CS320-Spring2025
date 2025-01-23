@@ -3,9 +3,10 @@ using Microsoft.AspNetCore.Mvc;
 namespace MyCookBookApi.Controllers
 {
     [ApiController]
-    [Route("[controller]")]
+    [Route("recipe")]
     public class WeatherForecastController : ControllerBase
     {
+        /*
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
@@ -29,5 +30,6 @@ namespace MyCookBookApi.Controllers
             })
             .ToArray();
         }
+        */
     }
 }

@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|c:\\users\\maini\\documents\\cs320-spring2025\\assignment1\\mycookbookapi\\mycookbookapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|solutionrelative:mycookbookapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|c:\\users\\maini\\documents\\cs320-spring2025\\assignment1\\mycookbookapi\\mycookbookapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|solutionrelative:mycookbookapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|c:\\users\\maini\\documents\\cs320-spring2025\\assignment1\\mycookbookapi\\mycookbookapi\\mycookbookapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|solutionrelative:mycookbookapi\\mycookbookapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|c:\\users\\maini\\documents\\cs320-spring2025\\assignment1\\mycookbookapi\\mycookbookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458464A2-F563-407E-8E44-752DEC601AA1}|MyCookBookApi\\MyCookBookApi.csproj|solutionrelative:mycookbookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -34,6 +47,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "MyCookBookApi\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\WeatherForecast.cs",
+              "RelativeToolTip": "MyCookBookApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T04:11:20.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyCookBookApi.http",
+              "DocumentMoniker": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\MyCookBookApi.http",
+              "RelativeDocumentMoniker": "MyCookBookApi\\MyCookBookApi.http",
+              "ToolTip": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\MyCookBookApi.http",
+              "RelativeToolTip": "MyCookBookApi\\MyCookBookApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-18T04:09:42.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\Program.cs",
+              "RelativeDocumentMoniker": "MyCookBookApi\\Program.cs",
+              "ToolTip": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\Program.cs",
+              "RelativeToolTip": "MyCookBookApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T04:09:39.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "MyCookBookApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment1\\MyCookBookApi\\MyCookBookApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "MyCookBookApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T04:09:32.536Z",
+              "EditorCaption": ""
             }
           ]
         }
