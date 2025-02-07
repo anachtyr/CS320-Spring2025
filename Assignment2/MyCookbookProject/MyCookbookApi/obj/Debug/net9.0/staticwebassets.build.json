@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Eg2faXuDvPSI2C/VarjO0ZPheEgbyYdyAh4ArFMoIRU=",
+  "Source": "MyCookbookApi",
+  "BasePath": "_content/MyCookbookApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

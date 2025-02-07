@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t6D9v/1ISQE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment2\\MyCookbookProject\\MyCookbookApp\\MyCookbookApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maini\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

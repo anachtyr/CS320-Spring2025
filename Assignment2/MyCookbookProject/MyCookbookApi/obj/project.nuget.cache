@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yE7p1iLcRo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maini\\Documents\\CS320-Spring2025\\Assignment2\\MyCookbookProject\\MyCookbookApi\\MyCookbookApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maini\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\maini\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
